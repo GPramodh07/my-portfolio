@@ -109,12 +109,6 @@ I'm always open to collaborating on interesting projects or discussing tech!
 
 ---
 
-## 📄 License
-
-This portfolio is open source under the **MIT License**. Feel free to use it as inspiration for your own portfolio!
-
----
-
 <div align="center">
 
 **Made with ❤️ by G Pramodh**
